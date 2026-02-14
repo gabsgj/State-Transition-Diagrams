@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "state-transition-diagrams"
-version = "1.0.0"
+version = "1.0.1"
 description = "Interactive and static state transition diagram library for HMMs, FSMs, and stateful systems"
 readme = "README.md"
 requires-python = ">=3.10"
@@ -61,9 +61,9 @@ demo = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/your-org/state-transition-diagrams"
-Repository = "https://github.com/your-org/state-transition-diagrams"
-Issues = "https://github.com/your-org/state-transition-diagrams/issues"
+Homepage = "https://github.com/gabsgj/State-Transition-Diagrams"
+Repository = "https://github.com/gabsgj/State-Transition-Diagrams"
+Issues = "https://github.com/gabsgj/State-Transition-Diagrams/issues"
 
 [tool.setuptools.packages.find]
 include = ["state_transition_diagrams*"]

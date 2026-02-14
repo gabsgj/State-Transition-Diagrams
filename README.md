@@ -57,7 +57,7 @@ pip install state-transition-diagrams[all]
 ### From Source (Development)
 
 ```bash
-git clone https://github.com/your-org/state-transition-diagrams.git
+git clone https://github.com/gabsgj/State-Transition-Diagrams.git
 cd state-transition-diagrams
 pip install -e .              # Core
 pip install -e ".[graphviz]"  # With Graphviz
