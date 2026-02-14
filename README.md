@@ -38,6 +38,7 @@ An open-source Python + JavaScript library for creating **interactive** and **st
 
 ## Installation
 
+### From PyPI (Recommended - after release)
 
 ```bash
 # Core (interactive JS + static renderer)
@@ -51,6 +52,17 @@ pip install state-transition-diagrams[flask]
 
 # Everything
 pip install state-transition-diagrams[all]
+```
+
+### From Source (Development)
+
+```bash
+git clone https://github.com/your-org/state-transition-diagrams.git
+cd state-transition-diagrams
+pip install -e .              # Core
+pip install -e ".[graphviz]"  # With Graphviz
+pip install -e ".[flask]"     # With Flask
+pip install -e ".[all]"       # Everything
 ```
 
 > **Note:** For the Graphviz renderer you also need the [Graphviz system binary](https://graphviz.org/download/).
