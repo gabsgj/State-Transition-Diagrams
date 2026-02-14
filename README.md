@@ -31,15 +31,8 @@ An open-source Python + JavaScript library for creating **interactive** and **st
 ![State Diagram 9](media/9.png)
 
 ### Videos
-<video title="Demo 10" width="640" controls muted loop playsinline>
-    <source src="media/10.mp4" type="video/mp4" />
-    Your browser does not support the video tag.
-</video>
-
-<video title="Demo 11" width="640" controls muted loop playsinline>
-    <source src="media/11.mp4" type="video/mp4" />
-    Your browser does not support the video tag.
-</video>
+- [▶️ Demo 10 (MP4)](media/10.mp4)
+- [▶️ Demo 11 (MP4)](media/11.mp4)
 
 ---
 
