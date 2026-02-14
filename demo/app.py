@@ -39,8 +39,8 @@ from flask import Flask, jsonify, render_template, request, send_file
 # Ensure the library is importable even when running from the demo/ folder
 # ---------------------------------------------------------------------------
 _lib_root = Path(__file__).resolve().parent.parent
-if str(_lib_root.parent) not in sys.path:
-    sys.path.insert(0, str(_lib_root.parent))
+if str(_lib_root) not in sys.path:
+    sys.path.insert(0, str(_lib_root))
 
 from state_transition_diagrams import create_blueprint, DiagramConfig, render_state_diagram
 

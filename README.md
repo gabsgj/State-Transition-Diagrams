@@ -17,7 +17,34 @@ An open-source Python + JavaScript library for creating **interactive** and **st
 
 ---
 
+## Media
+
+### Images
+![State Diagram 1](media/1.png)
+![State Diagram 2](media/2.png)
+![State Diagram 3](media/3.png)
+![State Diagram 4](media/4.png)
+![State Diagram 5](media/5.png)
+![State Diagram 6](media/6.png)
+![State Diagram 7](media/7.png)
+![State Diagram 8](media/8.png)
+![State Diagram 9](media/9.png)
+
+### Videos
+<video title="Demo 10" width="640" controls muted loop playsinline>
+    <source src="media/10.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+</video>
+
+<video title="Demo 11" width="640" controls muted loop playsinline>
+    <source src="media/11.mp4" type="video/mp4" />
+    Your browser does not support the video tag.
+</video>
+
+---
+
 ## Installation
+
 
 ```bash
 # Core (interactive JS + static renderer)
