@@ -31,8 +31,8 @@ An open-source Python + JavaScript library for creating **interactive** and **st
 ![State Diagram 9](media/9.png)
 
 ### Videos
-- [▶️ Demo 10 (MP4)](media/10.mp4)
-- [▶️ Demo 11 (MP4)](media/11.mp4)
+![Demo 10](media/10.gif)
+![Demo 11](media/11.gif)
 
 ---
 
