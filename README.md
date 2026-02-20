@@ -38,7 +38,7 @@ An open-source Python + JavaScript library for creating **interactive** and **st
 
 ## Installation
 
-### From PyPI (Recommended - after release)
+### From PyPI (Recommended)
 
 ```bash
 # Core (interactive JS + static renderer)
